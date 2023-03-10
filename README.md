@@ -14,7 +14,6 @@ to install ryu controller, you can simply follow the link
   <img src="photo_read/ryu_cover2.jpg" alt="ryu-opf-mn" width="300" height="116">
 </p>
 <br>
-
 ### Java IDE
 we personally used Intellij as IDE
 <p float="left">
