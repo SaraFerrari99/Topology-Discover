@@ -13,13 +13,12 @@ to install ryu controller, you can simply follow the link
 <p float="left">
   <img src="photo_read/ryu_cover2.jpg" alt="ryu-opf-mn" width="300" height="116">
 </p>
-<br>
+
 ### Java IDE
 we personally used Intellij as IDE
 <p float="left">
   <img src="photo_read/download.jpeg" alt="ryu-opf-mn" width="113" height="113">
 </p>
-<br>
 
 ## Project Layout 
     Granelli_Software
