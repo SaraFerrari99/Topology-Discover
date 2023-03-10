@@ -37,8 +37,7 @@ we personally used Intellij as IDE
     └── README.md 
 
 ## Running the Code
-To run the code, you have to open two different terminals. 
-On the first one you should launch the ryu controller by: 
+To run the code, you have to open two different terminals. <br> On the first one you should launch the ryu controller by: 
 ```gradle
 cd python\ per\ creazione\ txt
 ryu-manager --observe-links ryuDiscovery.py
