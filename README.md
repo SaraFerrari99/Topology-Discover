@@ -13,6 +13,22 @@ to install ryu controller, you can simply follow the link
 ### Java IDE
 we personally used Intellij as IDE
 
+## Project Layout 
+    Granelli_Software
+    ├── immagini host e switch                   # Images used inside java code   
+    ├── musiche e gif                            # Sounds and gifs used inside java code
+    ├── programma                                # Java code for topology display 
+    ├── python per creazione txt                 # python code to launch ryu controller 
+    ├── python per creazione topologia           # python code to create the topology
+    ├── topologia1_remove.txt                    # txt generaed after removing the first topology
+    ├── topologia1_preremove.txt                 # txt generaed after creating the first topology
+    ├── topologia2_remove.txt                    # txt generaed after removing the second topology
+    ├── topologia2_preremove.txt                 # txt generaed after creating the second topology
+    ├── topologia3_remove.txt                    # txt generaed after removing the third topology
+    ├── topologia3_preremove.txt                 # txt generaed after creating the third topology
+    ├── Power.pptx                               # power point 
+    └── README.md 
+
 ## 
 
 ## Presentation
