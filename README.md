@@ -9,3 +9,7 @@ to install mininet, you can simply follow the link
 ### Ryu Controller
 to install ryu controller, you can simply follow the link
 (https://ryu.readthedocs.io/en/latest/getting_started.html)
+
+### Java IDE
+we personally used Intellij as IDE
+
