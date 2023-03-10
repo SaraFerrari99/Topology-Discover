@@ -10,8 +10,17 @@ to install mininet, you can simply follow the link
 to install ryu controller, you can simply follow the link
 (https://ryu.readthedocs.io/en/latest/getting_started.html)
 
+<p float="left">
+  <img src="photo_read/ryu_cover2.jpg" alt="ryu-opf-mn" width="200" height="77">
+</p>
+<br>
+
 ### Java IDE
 we personally used Intellij as IDE
+<p float="left">
+  <img src="photo_read/download.jpeg" alt="ryu-opf-mn" width="113" height="113">
+</p>
+<br>
 
 ## Project Layout 
     Granelli_Software
@@ -29,7 +38,9 @@ we personally used Intellij as IDE
     ├── Power.pptx                               # power point 
     └── README.md 
 
-## 
+## Running the Code
+To run the code, you have to open two different terminals. On the first one you should launch the ryu contorller (the code in )
+
 
 ## Presentation
 [PRESENTATION] (https://onedrive.live.com/edit.aspx?resid=71C1E9E7ACF08D9B!7424&cid=71c1e9e7acf08d9b&CT=1676738984741&OR=ItemsView)
@@ -38,4 +49,4 @@ we personally used Intellij as IDE
 
 COMPONENTS:
 - SARA FERRARI
-- HAMZAOUI HAFSA
+- HAFSA HAMZAOUI
