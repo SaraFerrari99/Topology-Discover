@@ -50,14 +50,14 @@ sudo python3 topo1.py
 ```
 Now to display the topology, all you have to do is to launch the java code (situated in the programma folder)
 
-## Presentation
-[PRESENTATION] (https://onedrive.live.com/edit.aspx?resid=71C1E9E7ACF08D9B!7424&cid=71c1e9e7acf08d9b&CT=1676738984741&OR=ItemsView)
-
 ## Team Members
-
-COMPONENTS:
-- SARA FERRARI
-- HAFSA HAMZAOUI
-<p>
-  <img align="right" src="photo_read/collaboratori.jpg" alt="ryu-opf-mn" width="113" height="113">
-</p>
+<tr>
+  <th>
+    COMPONENTS:
+      - SARA FERRARI
+      - HAFSA HAMZAOUI
+  </th>
+  <th>
+      <img align="right" src="photo_read/collaboratori.jpg" alt="ryu-opf-mn" width="113" height="113">
+  </th>
+</tr>
