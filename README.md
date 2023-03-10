@@ -58,3 +58,6 @@ Now to display the topology, all you have to do is to launch the java code (situ
 COMPONENTS:
 - SARA FERRARI
 - HAFSA HAMZAOUI
+<p>
+  <img align="right" src="photo_read/collaboratori.jpg" alt="ryu-opf-mn" width="113" height="113">
+</p>
