@@ -11,7 +11,7 @@ to install ryu controller, you can simply follow the link
 (https://ryu.readthedocs.io/en/latest/getting_started.html)
 
 <p float="left">
-  <img src="photo_read/ryu_cover2.jpg" alt="ryu-opf-mn" width="200" height="77">
+  <img src="photo_read/ryu_cover2.jpg" alt="ryu-opf-mn" width="300" height="116">
 </p>
 <br>
 
