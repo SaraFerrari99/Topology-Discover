@@ -1,7 +1,7 @@
 # Topology-Discover
 Project of Virtualized and Softwarize Mobile Network
 
-## Requirements
+## Software Requirements
 ### Mininet
 to install mininet, you can simply follow the link
 (http://mininet.org/download/)
