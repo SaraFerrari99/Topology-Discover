@@ -38,12 +38,18 @@ we personally used Intellij as IDE
 
 ## Running the Code
 To run the code, you have to open two different terminals. 
-On the first one you should launch the ryu controller
+On the first one you should launch the ryu controller by: 
 ```gradle
 cd python\ per\ creazione\ txt
-./ryu-manager --observe-links ryuDiscovery.py
+ryu-manager --observe-links ryuDiscovery.py
 ```
 
+On the second terminal you should launch the topology (in this example I'll launch the first topo1.py, you can launch whatever costume topology you have):
+```gradle
+cd python\ per\ creazione\ topologia
+sudo python3 topo1.py
+```
+Now to display the topology, all you have to do is to launch the java code (situated in the programma folder)
 
 ## Presentation
 [PRESENTATION] (https://onedrive.live.com/edit.aspx?resid=71C1E9E7ACF08D9B!7424&cid=71c1e9e7acf08d9b&CT=1676738984741&OR=ItemsView)
