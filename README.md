@@ -51,13 +51,9 @@ sudo python3 topo1.py
 Now to display the topology, all you have to do is to launch the java code (situated in the programma folder)
 
 ## Team Members
-<tr>
-  <th>
-    COMPONENTS:
-      - SARA FERRARI
-      - HAFSA HAMZAOUI
-  </th>
-  <th>
-      <img align="right" src="photo_read/collaboratori.jpg" alt="ryu-opf-mn" width="113" height="113">
-  </th>
-</tr>
+COMPONENTS:
+- SARA FERRARI
+- HAFSA HAMZAOUI
+<p align="right">
+  <img align="right" src="photo_read/collaboratori.jpg" alt="ryu-opf-mn" width="113" height="113">
+</p>
