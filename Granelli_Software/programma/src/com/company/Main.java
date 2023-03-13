@@ -547,7 +547,6 @@ public class Main extends Application {
         secndaryStage.setX(primaryStage.getX() + scene.getWidth());
         secndaryStage.setY(primaryStage.getY());
         secndaryStage.setTitle("Information of Topolgy");
-        secndaryStage.show();
     }
 
     public static void main(String[] args) {
